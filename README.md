@@ -24,13 +24,21 @@ Dự án sử dụng ảnh vệ tinh Landsat 8 (qua Google Earth Engine) để:
 ├── data.py # Script GEE extract dữ liệu Landsat
 
 ├── process_data.py # Xử lý file Excel → CSV
+
 ├── data_processing.py # Chuẩn hóa dữ liệu theo quận
+
 ├── load_data.py # Hàm load dữ liệu
+
 ├── page_manager.py # Giao diện Streamlit
+
 ├── rf_temperature_model.pkl # Model AI dự đoán nhiệt độ
+
 ├── hanoi_database.csv # Dữ liệu đầy đủ theo chu kỳ
+
 ├── dashboard_data.csv # Dữ liệu tổng hợp theo quận
+
 ├── Bao_Cao_HaNoi_Landsat8_2022_2025.xlsx
+
 └── pictures_greenvision/ # Ảnh NDVI minh họa theo từng quận
 
 
