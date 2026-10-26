@@ -22,6 +22,7 @@ Dự án sử dụng ảnh vệ tinh Landsat 8 (qua Google Earth Engine) để:
 
 ## Cấu trúc dự án
 ├── data.py # Script GEE extract dữ liệu Landsat
+
 ├── process_data.py # Xử lý file Excel → CSV
 ├── data_processing.py # Chuẩn hóa dữ liệu theo quận
 ├── load_data.py # Hàm load dữ liệu
